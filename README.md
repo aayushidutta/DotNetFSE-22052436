@@ -6,7 +6,7 @@ This repository contains my week-wise hands-on assignments for the *Cognizant DN
 
 Each week focuses on a specific set of skills including *C# programming, Design Patterns, Data Structures & Algorithms, SQL, Web API development, React*, and more.
 
-### 👨‍🎓 Author
+### 👩‍🎓 Author
 
 Aayushi Dutta
 Superset ID: 6363122  
