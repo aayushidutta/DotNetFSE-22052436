@@ -1,0 +1,6 @@
+C:\Users\ujjal\OneDrive\Desktop\DOTNET_aayushi\DOTNET_aayushi\DOTNET\week2\NUNIT\MOQ\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\ujjal\OneDrive\Desktop\DOTNET_aayushi\DOTNET_aayushi\DOTNET\week2\NUNIT\MOQ\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\ujjal\OneDrive\Desktop\DOTNET_aayushi\DOTNET_aayushi\DOTNET\week2\NUNIT\MOQ\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\ujjal\OneDrive\Desktop\DOTNET_aayushi\DOTNET_aayushi\DOTNET\week2\NUNIT\MOQ\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\ujjal\OneDrive\Desktop\DOTNET_aayushi\DOTNET_aayushi\DOTNET\week2\NUNIT\MOQ\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\ujjal\OneDrive\Desktop\DOTNET_aayushi\DOTNET_aayushi\DOTNET\week2\NUNIT\MOQ\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

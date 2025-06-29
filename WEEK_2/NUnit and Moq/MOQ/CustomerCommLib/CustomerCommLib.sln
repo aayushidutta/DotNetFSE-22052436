@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerCommLib", "CustomerCommLib\CustomerCommLib.csproj", "{E07F2488-831E-4C1E-B6C6-A5AFE3C13F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerCommLib.Tests", "CustomerCommLib.Tests\CustomerCommLib.Tests.csproj", "{0DFABAAD-805A-4AB3-B618-F527869B5C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07F2488-831E-4C1E-B6C6-A5AFE3C13F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07F2488-831E-4C1E-B6C6-A5AFE3C13F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07F2488-831E-4C1E-B6C6-A5AFE3C13F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07F2488-831E-4C1E-B6C6-A5AFE3C13F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFABAAD-805A-4AB3-B618-F527869B5C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFABAAD-805A-4AB3-B618-F527869B5C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFABAAD-805A-4AB3-B618-F527869B5C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFABAAD-805A-4AB3-B618-F527869B5C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0929A0-93DA-40BB-A6AA-D0A2BACED180}
+	EndGlobalSection
+EndGlobal

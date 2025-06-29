@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ujjal\\OneDrive\\Desktop\\DOTNET_aayushi\\DOTNET_aayushi\\DOTNET\\week2\\NUNIT\\NUNIT\\CalcLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7CCEC4-68BE-4878-8D9F-3B49D3F65729}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|c:\\users\\ujjal\\onedrive\\desktop\\dotnet_aayushi\\dotnet_aayushi\\dotnet\\week2\\nunit\\nunit\\calclibrary\\calclibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7CCEC4-68BE-4878-8D9F-3B49D3F65729}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|solutionrelative:calclibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6033CB9C-1C16-4E06-84CF-26241FCFD6ED}|CalcLibrary\\CalcLibrary.csproj|c:\\users\\ujjal\\onedrive\\desktop\\dotnet_aayushi\\dotnet_aayushi\\dotnet\\week2\\nunit\\nunit\\calclibrary\\calclibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6033CB9C-1C16-4E06-84CF-26241FCFD6ED}|CalcLibrary\\CalcLibrary.csproj|solutionrelative:calclibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ujjal\\OneDrive\\Desktop\\DOTNET_aayushi\\DOTNET_aayushi\\DOTNET\\week2\\NUNIT\\NUNIT\\CalcLibrary\\CalcLibrary.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ujjal\\OneDrive\\Desktop\\DOTNET_aayushi\\DOTNET_aayushi\\DOTNET\\week2\\NUNIT\\NUNIT\\CalcLibrary\\CalcLibrary.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CalcLibrary.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:10:45.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ujjal\\OneDrive\\Desktop\\DOTNET_aayushi\\DOTNET_aayushi\\DOTNET\\week2\\NUNIT\\NUNIT\\CalcLibrary\\CalcLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "CalcLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\ujjal\\OneDrive\\Desktop\\DOTNET_aayushi\\DOTNET_aayushi\\DOTNET\\week2\\NUNIT\\NUNIT\\CalcLibrary\\CalcLibrary\\Class1.cs",
+              "RelativeToolTip": "CalcLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T05:09:00.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
